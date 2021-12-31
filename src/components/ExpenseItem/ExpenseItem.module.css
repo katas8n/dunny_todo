@@ -1,0 +1,30 @@
+.expense-title,
+.expense-price,
+.expense-date,
+.button {
+    background: linear-gradient(#9e009e, #740074d7);
+    color: #eeeeee;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+
+.button {
+    justify-content: center;
+    border: 1px solid #620062d7;
+    cursor: pointer;
+}
+.expense-date {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.message {
+    color: white;
+    background: linear-gradient(#9e009e, #740074d7);
+    width: 45rem;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

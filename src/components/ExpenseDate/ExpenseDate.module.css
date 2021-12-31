@@ -1,0 +1,11 @@
+.expense-date {
+    background: linear-gradient(#9e009e, #740074d7);
+    color: #eeeeee;
+    padding: 0.6rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.date {
+    background: linear-gradient(#9e009e, #740074d7);
+}
